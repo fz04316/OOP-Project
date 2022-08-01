@@ -17,3 +17,21 @@ class Payment
 
 
 };
+
+
+class Cash : public Payment
+{
+
+public:
+int Bill_Generate();
+
+
+};
+
+class Card : public Payment
+{
+
+public:
+int Bill_Generate();
+
+};

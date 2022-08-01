@@ -7,7 +7,8 @@ using namespace std;
 class Resort
 {
     protected:
-    int admin;
+    int admin_id;
+    string admin_name;
     string password;
 
 
@@ -23,3 +24,8 @@ class Resort
     void total_bill();
 
 };
+
+
+int main()
+{
+}
