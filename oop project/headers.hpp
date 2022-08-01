@@ -1,9 +1,0 @@
-#include"account.hpp"
-#include"car.hpp"
-#include"admin.hpp"
-#include"user.hpp"
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-#include<conio.h>
-#include<windows.h>
